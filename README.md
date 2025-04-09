@@ -1,1 +1,1 @@
-# 2024-m2-control-optimal
+# 2024-m2-control-optimal CSMI course
